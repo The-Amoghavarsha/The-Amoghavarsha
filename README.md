@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ...React JS
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ...[Email]<a href="mailto:the.amoghavarsha@disroot.org">
+- 📫 How to reach me: ...<a href="mailto:the.amoghavarsha@disroot.org">
 - 😄 Pronouns: ...He/His/Him
 - ⚡ Fun fact: ...The word *short* is longer than *long*!
 
