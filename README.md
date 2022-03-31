@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Technology
 - 🌱 I’m currently learning ...Golang
 - 💞️ I’m looking to collaborate on ...OSINT
-- 📫 How to reach me ...mailto:theamoghavarsha@disroot.org
+- 📫 How to reach me ...
 
 <!---
 The-Amoghavarsha/The-Amoghavarsha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
