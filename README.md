@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amoghavarsha
 - 👀 I’m interested in ...Technology
-- 🌱 I’m currently learning ...Golang
+- 🌱 I’m currently learning ...ReactJS
 
 <!---
 The-Amoghavarsha/The-Amoghavarsha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
